@@ -2,6 +2,18 @@ body {
   margin: 0;
   min-height: 100vh;
   padding: 30px;
-  background-color: #94C1F7; 
+  background-color: #94C1F7;
   box-sizing: border-box;
+
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-size: 28px; /* 大見出しのサイズ */
+}
+
+h3 {
+  font-size: 18px; /* 自己紹介や趣味の文字サイズ */
 }
